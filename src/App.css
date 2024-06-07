@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    width: 100%;
+}
+
+.my-row{
+    margin: 7px 3px;
+}
+.myBtn{
+    min-width: 72px;
+}
+/* .todo-container{
+    max-width: 6000px;
+} */
